@@ -1,0 +1,2 @@
+C:\Users\Gyrocopter_UA\source\repos\File_Manager\File_Manager\bin\Release\netcoreapp3.1\publish\File_Manager.pdb
+C:\Users\Gyrocopter_UA\source\repos\File_Manager\File_Manager\bin\Release\netcoreapp3.1\publish\File_Manager.exe

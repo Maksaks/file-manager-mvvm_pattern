@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9QOcIR7U3i+fcX3SxDKw9U+Goh7bYwgKMkzUSHO/fj1iYzeuD4FKnrexcKdmWkaRwUdsGo/Z/ju2dXNHOAd8kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gyrocopter_UA\\source\\repos\\File_Manager\\File_Manager\\File_Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\gong-wpf-dragdrop\\3.2.0\\gong-wpf-dragdrop.3.2.0.nupkg.sha512",
+    "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\sharpvectors.reloaded\\1.8.1\\sharpvectors.reloaded.1.8.1.nupkg.sha512",
+    "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.29\\microsoft.netcore.app.runtime.win-x86.3.1.29.nupkg.sha512",
+    "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.29\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.29.nupkg.sha512",
+    "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.29\\microsoft.aspnetcore.app.runtime.win-x86.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

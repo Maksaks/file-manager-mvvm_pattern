@@ -1,0 +1,408 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "gong-wpf-dragdrop/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/GongSolutions.WPF.DragDrop.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/GongSolutions.WPF.DragDrop.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "SharpVectors.Reloaded/1.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/SharpVectors.Converters.Wpf.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Core.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Css.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Dom.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Model.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Rendering.Gdi.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Rendering.Wpf.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Runtime.Wpf.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/SharpVectors.Converters.Wpf.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Core.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Css.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Dom.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Model.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Rendering.Gdi.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Rendering.Wpf.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Runtime.Wpf.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    },
+    ".NETCoreApp,Version=v3.1/win-x64": {
+      "gong-wpf-dragdrop/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/GongSolutions.WPF.DragDrop.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/GongSolutions.WPF.DragDrop.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "SharpVectors.Reloaded/1.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/SharpVectors.Converters.Wpf.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Core.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Css.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Dom.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Model.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Rendering.Gdi.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Rendering.Wpf.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Runtime.Wpf.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/SharpVectors.Converters.Wpf.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Core.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Css.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Dom.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Model.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Rendering.Gdi.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Rendering.Wpf.dll": {},
+          "lib/netcoreapp3.1/SharpVectors.Runtime.Wpf.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "gong-wpf-dragdrop/3.2.0": {
+      "sha512": "Sg3h2GZ2qOG/boscpRd5+pVe1VtZ72VTHCE25ajpXu5FNU40sskBvmuz47Q0/7bmtITzV3K+6OR5R0s0lglvNw==",
+      "type": "package",
+      "path": "gong-wpf-dragdrop/3.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "GongSolutions.Wpf.DragDrop.png",
+        "LICENSE",
+        "gong-wpf-dragdrop.3.2.0.nupkg.sha512",
+        "gong-wpf-dragdrop.nuspec",
+        "lib/net462/GongSolutions.WPF.DragDrop.dll",
+        "lib/net462/GongSolutions.WPF.DragDrop.xml",
+        "lib/net47/GongSolutions.WPF.DragDrop.dll",
+        "lib/net47/GongSolutions.WPF.DragDrop.xml",
+        "lib/net48/GongSolutions.WPF.DragDrop.dll",
+        "lib/net48/GongSolutions.WPF.DragDrop.xml",
+        "lib/net5.0-windows7.0/GongSolutions.WPF.DragDrop.dll",
+        "lib/net5.0-windows7.0/GongSolutions.WPF.DragDrop.xml",
+        "lib/net6.0-windows7.0/GongSolutions.WPF.DragDrop.dll",
+        "lib/net6.0-windows7.0/GongSolutions.WPF.DragDrop.xml",
+        "lib/netcoreapp3.1/GongSolutions.WPF.DragDrop.dll",
+        "lib/netcoreapp3.1/GongSolutions.WPF.DragDrop.xml"
+      ]
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+      "sha512": "8PZKqw9QOcu42xk8puY4P1+EXHL9YGOR9b7qhaYx5cILHul456H073tj99vyPcCt0W0781T9RwHqkx507ZyUpQ==",
+      "type": "package",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.39",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Design/Microsoft.Xaml.Behaviors.Design.dll",
+        "lib/net45/Microsoft.Xaml.Behaviors.dll",
+        "lib/net45/Microsoft.Xaml.Behaviors.pdb",
+        "lib/net45/Microsoft.Xaml.Behaviors.xml",
+        "lib/net5.0-windows7.0/Design/Microsoft.Xaml.Behaviors.DesignTools.dll",
+        "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll",
+        "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.pdb",
+        "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.xml",
+        "lib/netcoreapp3.1/Design/Microsoft.Xaml.Behaviors.DesignTools.dll",
+        "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.dll",
+        "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.pdb",
+        "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.xml",
+        "microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+        "microsoft.xaml.behaviors.wpf.nuspec",
+        "tools/Install.ps1"
+      ]
+    },
+    "SharpVectors.Reloaded/1.8.1": {
+      "sha512": "lznzkmy6fnAUTnX/u5N9ZwUIJcAxYu/EGz006feV1y954lIuD6kUzpGluD2npzsVz7mx+96TwPiPgLxxHKKUOQ==",
+      "type": "package",
+      "path": "sharpvectors.reloaded/1.8.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "docs/SharpVectors.Reloaded.md",
+        "images/SharpVectors64.png",
+        "lib/License.txt",
+        "lib/net40/SharpVectors.Converters.Wpf.dll",
+        "lib/net40/SharpVectors.Converters.Wpf.xml",
+        "lib/net40/SharpVectors.Core.dll",
+        "lib/net40/SharpVectors.Core.xml",
+        "lib/net40/SharpVectors.Css.dll",
+        "lib/net40/SharpVectors.Css.xml",
+        "lib/net40/SharpVectors.Dom.dll",
+        "lib/net40/SharpVectors.Dom.xml",
+        "lib/net40/SharpVectors.Model.dll",
+        "lib/net40/SharpVectors.Model.xml",
+        "lib/net40/SharpVectors.Rendering.Gdi.dll",
+        "lib/net40/SharpVectors.Rendering.Gdi.xml",
+        "lib/net40/SharpVectors.Rendering.Wpf.dll",
+        "lib/net40/SharpVectors.Rendering.Wpf.xml",
+        "lib/net40/SharpVectors.Runtime.Wpf.dll",
+        "lib/net40/SharpVectors.Runtime.Wpf.xml",
+        "lib/net45/SharpVectors.Converters.Wpf.dll",
+        "lib/net45/SharpVectors.Converters.Wpf.xml",
+        "lib/net45/SharpVectors.Core.dll",
+        "lib/net45/SharpVectors.Core.xml",
+        "lib/net45/SharpVectors.Css.dll",
+        "lib/net45/SharpVectors.Css.xml",
+        "lib/net45/SharpVectors.Dom.dll",
+        "lib/net45/SharpVectors.Dom.xml",
+        "lib/net45/SharpVectors.Model.dll",
+        "lib/net45/SharpVectors.Model.xml",
+        "lib/net45/SharpVectors.Rendering.Gdi.dll",
+        "lib/net45/SharpVectors.Rendering.Gdi.xml",
+        "lib/net45/SharpVectors.Rendering.Wpf.dll",
+        "lib/net45/SharpVectors.Rendering.Wpf.xml",
+        "lib/net45/SharpVectors.Runtime.Wpf.dll",
+        "lib/net45/SharpVectors.Runtime.Wpf.xml",
+        "lib/net46/SharpVectors.Converters.Wpf.dll",
+        "lib/net46/SharpVectors.Converters.Wpf.xml",
+        "lib/net46/SharpVectors.Core.dll",
+        "lib/net46/SharpVectors.Core.xml",
+        "lib/net46/SharpVectors.Css.dll",
+        "lib/net46/SharpVectors.Css.xml",
+        "lib/net46/SharpVectors.Dom.dll",
+        "lib/net46/SharpVectors.Dom.xml",
+        "lib/net46/SharpVectors.Model.dll",
+        "lib/net46/SharpVectors.Model.xml",
+        "lib/net46/SharpVectors.Rendering.Gdi.dll",
+        "lib/net46/SharpVectors.Rendering.Gdi.xml",
+        "lib/net46/SharpVectors.Rendering.Wpf.dll",
+        "lib/net46/SharpVectors.Rendering.Wpf.xml",
+        "lib/net46/SharpVectors.Runtime.Wpf.dll",
+        "lib/net46/SharpVectors.Runtime.Wpf.xml",
+        "lib/net47/SharpVectors.Converters.Wpf.dll",
+        "lib/net47/SharpVectors.Converters.Wpf.xml",
+        "lib/net47/SharpVectors.Core.dll",
+        "lib/net47/SharpVectors.Core.xml",
+        "lib/net47/SharpVectors.Css.dll",
+        "lib/net47/SharpVectors.Css.xml",
+        "lib/net47/SharpVectors.Dom.dll",
+        "lib/net47/SharpVectors.Dom.xml",
+        "lib/net47/SharpVectors.Model.dll",
+        "lib/net47/SharpVectors.Model.xml",
+        "lib/net47/SharpVectors.Rendering.Gdi.dll",
+        "lib/net47/SharpVectors.Rendering.Gdi.xml",
+        "lib/net47/SharpVectors.Rendering.Wpf.dll",
+        "lib/net47/SharpVectors.Rendering.Wpf.xml",
+        "lib/net47/SharpVectors.Runtime.Wpf.dll",
+        "lib/net47/SharpVectors.Runtime.Wpf.xml",
+        "lib/net48/SharpVectors.Converters.Wpf.dll",
+        "lib/net48/SharpVectors.Converters.Wpf.xml",
+        "lib/net48/SharpVectors.Core.dll",
+        "lib/net48/SharpVectors.Core.xml",
+        "lib/net48/SharpVectors.Css.dll",
+        "lib/net48/SharpVectors.Css.xml",
+        "lib/net48/SharpVectors.Dom.dll",
+        "lib/net48/SharpVectors.Dom.xml",
+        "lib/net48/SharpVectors.Model.dll",
+        "lib/net48/SharpVectors.Model.xml",
+        "lib/net48/SharpVectors.Rendering.Gdi.dll",
+        "lib/net48/SharpVectors.Rendering.Gdi.xml",
+        "lib/net48/SharpVectors.Rendering.Wpf.dll",
+        "lib/net48/SharpVectors.Rendering.Wpf.xml",
+        "lib/net48/SharpVectors.Runtime.Wpf.dll",
+        "lib/net48/SharpVectors.Runtime.Wpf.xml",
+        "lib/net5.0-windows7.0/SharpVectors.Converters.Wpf.dll",
+        "lib/net5.0-windows7.0/SharpVectors.Converters.Wpf.xml",
+        "lib/net5.0-windows7.0/SharpVectors.Core.dll",
+        "lib/net5.0-windows7.0/SharpVectors.Core.xml",
+        "lib/net5.0-windows7.0/SharpVectors.Css.dll",
+        "lib/net5.0-windows7.0/SharpVectors.Css.xml",
+        "lib/net5.0-windows7.0/SharpVectors.Dom.dll",
+        "lib/net5.0-windows7.0/SharpVectors.Dom.xml",
+        "lib/net5.0-windows7.0/SharpVectors.Model.dll",
+        "lib/net5.0-windows7.0/SharpVectors.Model.xml",
+        "lib/net5.0-windows7.0/SharpVectors.Rendering.Gdi.dll",
+        "lib/net5.0-windows7.0/SharpVectors.Rendering.Gdi.xml",
+        "lib/net5.0-windows7.0/SharpVectors.Rendering.Wpf.dll",
+        "lib/net5.0-windows7.0/SharpVectors.Rendering.Wpf.xml",
+        "lib/net5.0-windows7.0/SharpVectors.Runtime.Wpf.dll",
+        "lib/net5.0-windows7.0/SharpVectors.Runtime.Wpf.xml",
+        "lib/net6.0-windows7.0/SharpVectors.Converters.Wpf.dll",
+        "lib/net6.0-windows7.0/SharpVectors.Converters.Wpf.xml",
+        "lib/net6.0-windows7.0/SharpVectors.Core.dll",
+        "lib/net6.0-windows7.0/SharpVectors.Core.xml",
+        "lib/net6.0-windows7.0/SharpVectors.Css.dll",
+        "lib/net6.0-windows7.0/SharpVectors.Css.xml",
+        "lib/net6.0-windows7.0/SharpVectors.Dom.dll",
+        "lib/net6.0-windows7.0/SharpVectors.Dom.xml",
+        "lib/net6.0-windows7.0/SharpVectors.Model.dll",
+        "lib/net6.0-windows7.0/SharpVectors.Model.xml",
+        "lib/net6.0-windows7.0/SharpVectors.Rendering.Gdi.dll",
+        "lib/net6.0-windows7.0/SharpVectors.Rendering.Gdi.xml",
+        "lib/net6.0-windows7.0/SharpVectors.Rendering.Wpf.dll",
+        "lib/net6.0-windows7.0/SharpVectors.Rendering.Wpf.xml",
+        "lib/net6.0-windows7.0/SharpVectors.Runtime.Wpf.dll",
+        "lib/net6.0-windows7.0/SharpVectors.Runtime.Wpf.xml",
+        "lib/netcoreapp3.1/SharpVectors.Converters.Wpf.dll",
+        "lib/netcoreapp3.1/SharpVectors.Converters.Wpf.xml",
+        "lib/netcoreapp3.1/SharpVectors.Core.dll",
+        "lib/netcoreapp3.1/SharpVectors.Core.xml",
+        "lib/netcoreapp3.1/SharpVectors.Css.dll",
+        "lib/netcoreapp3.1/SharpVectors.Css.xml",
+        "lib/netcoreapp3.1/SharpVectors.Dom.dll",
+        "lib/netcoreapp3.1/SharpVectors.Dom.xml",
+        "lib/netcoreapp3.1/SharpVectors.Model.dll",
+        "lib/netcoreapp3.1/SharpVectors.Model.xml",
+        "lib/netcoreapp3.1/SharpVectors.Rendering.Gdi.dll",
+        "lib/netcoreapp3.1/SharpVectors.Rendering.Gdi.xml",
+        "lib/netcoreapp3.1/SharpVectors.Rendering.Wpf.dll",
+        "lib/netcoreapp3.1/SharpVectors.Rendering.Wpf.xml",
+        "lib/netcoreapp3.1/SharpVectors.Runtime.Wpf.dll",
+        "lib/netcoreapp3.1/SharpVectors.Runtime.Wpf.xml",
+        "sharpvectors.reloaded.1.8.1.nupkg.sha512",
+        "sharpvectors.reloaded.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.Xaml.Behaviors.Wpf >= 1.1.39",
+      "SharpVectors.Reloaded >= 1.8.1",
+      "gong-wpf-dragdrop >= 3.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Gyrocopter_UA\\source\\repos\\File_Manager\\File_Manager\\File_Manager.csproj",
+      "projectName": "File_Manager",
+      "projectPath": "C:\\Users\\Gyrocopter_UA\\source\\repos\\File_Manager\\File_Manager\\File_Manager.csproj",
+      "packagesPath": "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gyrocopter_UA\\source\\repos\\File_Manager\\File_Manager\\obj\\publish\\win-x64\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Gyrocopter_UA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": {
+            "target": "Package",
+            "version": "[1.1.39, )"
+          },
+          "SharpVectors.Reloaded": {
+            "target": "Package",
+            "version": "[1.8.1, )"
+          },
+          "gong-wpf-dragdrop": {
+            "target": "Package",
+            "version": "[3.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[3.1.29, 3.1.29]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[3.1.29, 3.1.29]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[3.1.29, 3.1.29]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kJEOVySI7XHJqpdKXYVdv6emDMP/dwP4X99Urc5tD5+vH4kihH1HwP0R2II7xnztwO29KltOGQX6sZqcta4v3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gyrocopter_UA\\source\\repos\\File_Manager\\File_Manager\\File_Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\gong-wpf-dragdrop\\3.2.0\\gong-wpf-dragdrop.3.2.0.nupkg.sha512",
+    "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\sharpvectors.reloaded\\1.8.1\\sharpvectors.reloaded.1.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
